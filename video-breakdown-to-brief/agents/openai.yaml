@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频拉片到AIGC故事与创作"
+  short_description: "从拉片或选题生成故事、轻量视觉规则、Style Skill、分镜、资产与逐镜提示词"
+  default_prompt: "Use $video-breakdown-to-brief to develop my reference video or topic into a one-sentence story, dual story/emotion curves, a production script, shot table, storyboard, asset prompts, per-shot video prompts, or a compact W03 Style DNA to Style Skill visual-rule layer."
